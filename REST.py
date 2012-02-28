@@ -48,6 +48,7 @@ root.sidewinder = Resource({'color': 'red', 'weight': 176, 'type': 'stable'})
 root.teebird = Resource({'color': 'green', 'weight': 173, 'type': 'overstable'})
 root.blowfly = Resource({'color': 'purple', 'weight': 169, 'type': 'putter'})
 root.resource_index = ResourceIndex({'sidewinder': 'sidewinder', 'teebird': 'teebird', 'blowfly': 'blowfly'})
+root.index = ResourceIndex({'sidewinder': 'sidewinder', 'teebird': 'teebird', 'blowfly': 'blowfly'})
 
 conf = {
     'global': {
